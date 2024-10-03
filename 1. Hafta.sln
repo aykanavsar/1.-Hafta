@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İç İçe İf Else -3", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İf Else Pratik", "İf Else Pratik\İf Else Pratik.csproj", "{7D77292C-8C85-4FBB-8755-FFF167348BB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch - Case Yapıları", "Switch - Case Yapıları\Switch - Case Yapıları.csproj", "{95C0C00F-7BBB-41F1-9F62-CF41ECED5174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav Uygulaması", "Manav Uygulaması\Manav Uygulaması.csproj", "{C15910AE-01AE-477A-87A8-233770609F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{7D77292C-8C85-4FBB-8755-FFF167348BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D77292C-8C85-4FBB-8755-FFF167348BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D77292C-8C85-4FBB-8755-FFF167348BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95C0C00F-7BBB-41F1-9F62-CF41ECED5174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C0C00F-7BBB-41F1-9F62-CF41ECED5174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C0C00F-7BBB-41F1-9F62-CF41ECED5174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C0C00F-7BBB-41F1-9F62-CF41ECED5174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15910AE-01AE-477A-87A8-233770609F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15910AE-01AE-477A-87A8-233770609F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15910AE-01AE-477A-87A8-233770609F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15910AE-01AE-477A-87A8-233770609F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
