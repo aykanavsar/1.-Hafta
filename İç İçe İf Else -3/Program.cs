@@ -1,6 +1,6 @@
 ﻿
 
-int sayi = 25
+int sayi = Co
 
 if ((sayi > 0 && sayi < 10) || sayi == 20)
 {
